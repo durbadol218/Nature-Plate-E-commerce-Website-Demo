@@ -1,5 +1,5 @@
 # 🍃 Natures Platter 🍽️
-
+Live link:: https://super-kashata-53fb5b.netlify.app/
 ---
 
 ## 🖼️ Sample Preview  
